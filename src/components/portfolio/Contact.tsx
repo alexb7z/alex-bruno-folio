@@ -4,7 +4,7 @@ import { useState } from "react";
 import { toast } from "@/hooks/use-toast";
 
 // TODO: substitua pelos seus dados reais
-const EMAIL = "alexbrunoduarte@exemplo.com";
+const EMAIL = "alexbrunoduarte@gmail.com.com";
 const LINKEDIN = "https://www.linkedin.com/in/seu-usuario";
 const GITHUB = "https://github.com/alexb7z";
 
